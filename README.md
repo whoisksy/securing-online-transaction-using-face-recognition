@@ -86,8 +86,6 @@ Batch size 1 proved optimal with a fast training speed and also efficient boundi
 * Learning Rate
 
 1. Learning Rate (0.00001)
-
-<img src="/experiment/image018.jpg" width="200" height="200" />
 ![Learning Rate (0.00001)](/experiment/image018.jpg)
 ![Learning Rate (0.00001)](/experiment/image019.jpg)
 
