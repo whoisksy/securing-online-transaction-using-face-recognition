@@ -1,0 +1,31 @@
+body 
+{ 
+	padding-top:125px;
+	padding-left:350px;
+	padding-right:150px; 
+	
+	
+	background-image:url('bg.png');
+	height: 100%;          
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+.panel-title 
+{
+	display: inline;
+	font-weight: bold;
+}
+.pl-ziro 
+{ 
+	padding-left: 0px; 
+}
+
+.btn {
+	border-radius:35px;
+	font-size: 20px;
+	margin: 20px;
+	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  	transition: all 0.3s ease 0s;
+}
