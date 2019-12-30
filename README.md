@@ -70,35 +70,35 @@ Batch size 1 proved optimal with a fast training speed and also efficient boundi
 
 1. Learning Rate (0.00001)
 
-![Learning Rate (0.00001)](../Securing-Online-Transaction-using-Face-Recognition/experiment/image018.jpg)
-![Learning Rate (0.00001)](../Securing-Online-Transaction-using-Face-Recognition/experiment/image019.jpg)
+![Learning Rate (0.00001)](/experiment/image018.jpg)
+![Learning Rate (0.00001)](/experiment/image019.jpg)
 
 
 2. Learning Rate (0.0001)
-![Learning Rate (0.0001)](../Securing-Online-Transaction-using-Face-Recognition/experiment/image020.jpg)
-![Learning Rate (0.0001)](../Securing-Online-Transaction-using-Face-Recognition/experiment/image021.jpg)
+![Learning Rate (0.0001)](/experiment/image020.jpg)
+![Learning Rate (0.0001)](/experiment/image021.jpg)
 
 * Number of Training Iterations
 
 1. Iterations: 100000
-![Iterations: 100000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image022.jpg)
-![Iterations: 100000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image023.jpg)
+![Iterations: 100000](/experiment/image022.jpg)
+![Iterations: 100000](/experiment/image023.jpg)
 
 2. Iterations: 200000
-![Iterations: 200000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image024.jpg)
-![Iterations: 200000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image025.jpg)
+![Iterations: 200000](/experiment/image024.jpg)
+![Iterations: 200000](/experiment/image025.jpg)
 
 3. Iterations: 300000
-![Iterations: 300000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image026.jpg)
-![Iterations: 300000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image027.jpg)
+![Iterations: 300000](/experiment/image026.jpg)
+![Iterations: 300000](/experiment/image027.jpg)
 
 4. Iterations: 600000
-![Iterations: 600000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image028.jpg)
-![Iterations: 600000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image029.jpg)
+![Iterations: 600000](/experiment/image028.jpg)
+![Iterations: 600000](/experiment/image029.jpg)
 
 5. Iterations: 800000
-![Iterations: 800000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image030.jpg)
-![Iterations: 800000](../Securing-Online-Transaction-using-Face-Recognition/experiment/image031.jpg)
+![Iterations: 800000](/experiment/image030.jpg)
+![Iterations: 800000](/experiment/image031.jpg)
 
 
 ## Optimal Parameters
