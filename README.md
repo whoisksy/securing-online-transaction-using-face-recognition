@@ -1,6 +1,6 @@
 # Online Transaction Security Using Face Recognition
 
-This project was developed for final year of BE in Computer Science from Visveswaraiah Technological University. Full report for this project can be found out [here](../Securing-Online-Transaction-using-Face-Recognition/report/Project-Report.docx).
+This project was developed for final year of BE in Computer Science from Visveswaraiah Technological University. Full report for this project can be found out [here](/report/Project-Report.docx).
 
 ## Problem Statement
 There has been no full proof method to “authenticate” a customer in an online credit card transaction. Authentication is the verification of a credit card owner made during a credit card purchase. In the physical world authentication is achieved through a physical signature which is manually checked at the point of sale. Without effective authentication, following problems may arise like fraudulent transaction, lengthy process of transaction including lack of confidence for customers, higher cost of transactions etc.
