@@ -51,14 +51,15 @@ And the support of Numpy makes the task more easier. Numpy is a highly optimized
 ### Data flow Diagram
 
 A data flow diagram (DFD) is a graphical representation of the flow of data through an information system. A DFD gives the preliminary overview of the system without going into great detail. Fig.4.2.1 represents the DFD of our proposed system. The flow of the system is as follows:
+
+![](/experiment/image007.jpg)
+
 1.	User enters amount and confirms.
 2.	Face verification is done by comparing input image with datasets.
 3.	If face is successfully verified, payment is successful.
 4.	If face verification fails, pin code is asked.
 5.	If pin code is verified, face **image is stored for investigation if concerned is raised** and payment is successful.
 6.	If not verified, payment is declined.
-
-![](/experiment/image007.jpg)
 
 ## Experiments and Results
 The prediction percentage and the accuracy of the bounding boxes in the results depends on the:
